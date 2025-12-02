@@ -75,7 +75,7 @@ Run the following command on Fox:
 ./Chrom3D -n 100000 -r 5.0 --nucleus -y 0.01 -l 10000 -c 0.001  chr18_bead_interactions.lads.gtrack > model.cmm
 ```
 ```diff
-! Look at the output in the beginning (starting with #)
+! Look at the terminal output in the beginning (starting with #)
 ! How many chromosomes are we modeling here?
 ! How many beads are we modeling here?
 ! How many interactions from Hi-C are being used?
